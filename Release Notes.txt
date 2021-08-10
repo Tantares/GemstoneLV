@@ -1,0 +1,7 @@
+GemnstoneLV
+Version 1.0
+
+- H-II Rocket
+
+Place the GemstoneLV folder into KSP/GameData to use. Have fun!
+GemstoneLV is released under the MIT licence.
